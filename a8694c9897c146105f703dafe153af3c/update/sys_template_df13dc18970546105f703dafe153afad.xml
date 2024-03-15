@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>WatsonxAITokenTemplate</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-15 17:33:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df13dc18970546105f703dafe153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WatsonxAITokenTemplate</sys_name>
+        <sys_package display_value="GENAIConnector" source="x_146833_genaico_0">a8694c9897c146105f703dafe153af3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GENAIConnector">a8694c9897c146105f703dafe153af3c</sys_scope>
+        <sys_update_name>sys_template_df13dc18970546105f703dafe153afad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-15 17:33:58</sys_updated_on>
+        <table>x_146833_genaico_0_watsonxaitoken</table>
+        <template>u_access_token=eyJraWQiOiIyMDI0MDMwNjA4MzgiLCJhbGciOiJSUzI1NiJ9.eyJpYW1faWQiOiJJQk1pZC02NjUwMDBQSlQ3IiwiaWQiOiJJQk1pZC02NjUwMDBQSlQ3IiwicmVhbG1pZCI6IklCTWlkIiwianRpIjoiMzI2YmRjYjQtNzY4YS00YmQzLThmMjMtOWQ0M2I3NzNiN2QyIiwiaWRlbnRpZmllciI6IjY2NTAwMFBKVDciLCJnaXZlbl9uYW1lIjoiU3Jpbml2YXMgQW5pbCBLdW1hciIsImZhbWlseV9uYW1lIjoiVmFyYW5hc2kiLCJuYW1lIjoiU3Jpbml2YXMgQW5pbCBLdW1hciBWYXJhbmFzaSIsImVtYWlsIjoiU3Jpbml2YXMuQW5pbC5LdW1hci5WYXJhbmFzaUBpYm0uY29tIiwic3ViIjoiU3Jpbml2YXMuQW5pbC5LdW1hci5WYXJhbmFzaUBpYm0uY29tIiwiYXV0aG4iOnsic3ViIjoiU3Jpbml2YXMuQW5pbC5LdW1hci5WYXJhbmFzaUBpYm0uY29tIiwiaWFtX2lkIjoiSUJNaWQtNjY1MDAwUEpUNyIsIm5hbWUiOiJTcmluaXZhcyBBbmlsIEt1bWFyIFZhcmFuYXNpIiwiZ2l2ZW5fbmFtZSI6IlNyaW5pdmFzIEFuaWwgS3VtYXIiLCJmYW1pbHlfbmFtZSI6IlZhcmFuYXNpIiwiZW1haWwiOiJTcmluaXZhcy5BbmlsLkt1bWFyLlZhcmFuYXNpQGlibS5jb20ifSwiYWNjb3VudCI6eyJ2YWxpZCI6dHJ1ZSwiYnNzIjoiMDE2MmQ1NDQzYjFmNGYzYThjNDRiMGVhZTA2YTA4NzciLCJmcm96ZW4iOnRydWV9LCJpYXQiOjE3MTA1MjA5NDYsImV4cCI6MTcxMDUyNDU0NiwiaXNzIjoiaHR0cHM6Ly9pYW0uY2xvdWQuaWJtLmNvbS9pZGVudGl0eSIsImdyYW50X3R5cGUiOiJ1cm46aWJtOnBhcmFtczpvYXV0aDpncmFudC10eXBlOmFwaWtleSIsInNjb3BlIjoiaWJtIG9wZW5pZCIsImNsaWVudF9pZCI6ImRlZmF1bHQiLCJhY3IiOjEsImFtciI6WyJwd2QiXX0.YR_2NVvuMOU7QIMW1I-a5f8KUi4Q9nEljc-UE0bK6E03gDMOvVNjesclVb2CwgY5RykoxkO2LJlqXTn-lKkLawG-K_8JWzV3qZGn0Hy_ORtfRzZGOX-_mj6cjHfL93viS390wXnxB9_t2oehLYdUwIGarUTotcM6QNCRhX2aoIDZCfosEqHL1DLHsKEJ6_RaEDD35ditbdia2ZvTO21w8fk-vWeoQDsCrGB-TkYnuqpzeXDP2sPnMWZrbhzN2TNzJMd6sez6kUHKLfB5b3dvWggAzqz8b0rBmNcvdAb6KTdnjmPJvb7lnZFSMSmlmXbHfhc5vze7UfUAdPpkTdnwdQ^u_token_type=Bearer^u_refresh_token=not_supported^u_expires_in=3600^u_expiration=1710524546^u_scope=ibm openid^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

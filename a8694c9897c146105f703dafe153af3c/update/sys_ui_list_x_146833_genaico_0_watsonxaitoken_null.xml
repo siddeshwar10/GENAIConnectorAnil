@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_146833_genaico_0_watsonxaitoken" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>2bd01854970546105f703dafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>abd01854970546105f703dafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_access_token</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>2fd01854970546105f703dafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_expiration</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>afd01854970546105f703dafe153af8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_expires_in</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>23d01854970546105f703dafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_refresh_token</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>a3d01854970546105f703dafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_scope</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>27d01854970546105f703dafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_token_type</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>a7d01854970546105f703dafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_146833_genaico_0_watsonxaitoken" element="NULL" name="x_146833_genaico_0_watsonxaitoken" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ebd01854970546105f703dafe153af8e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_id>2bd01854970546105f703dafe153af90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_146833_genaico_0_watsonxaitoken</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-15 17:22:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebd01854970546105f703dafe153af8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_146833_genaico_0_watsonxaitoken</sys_name>
+            <sys_package display_value="GENAIConnector" source="x_146833_genaico_0">a8694c9897c146105f703dafe153af3c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GENAIConnector">a8694c9897c146105f703dafe153af3c</sys_scope>
+            <sys_update_name>sys_ui_list_x_146833_genaico_0_watsonxaitoken_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-15 17:22:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
