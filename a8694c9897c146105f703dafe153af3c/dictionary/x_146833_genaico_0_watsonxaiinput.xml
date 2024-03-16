@@ -12,6 +12,6 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=input" default="Provide examples of SAP ERP architecture" label="input" mandatory="true" max_length="2000" name="u_input" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=model_id" default="meta-llama/llama-2-70b-chat" display="true" label="model_id" mandatory="true" max_length="40" name="u_model_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=parameters" default="{&#10;&#9;&#9;&quot;decoding_method&quot;: &quot;greedy&quot;,&#10;&#9;&#9;&quot;max_new_tokens&quot;: 900,&#10;&#9;&#9;&quot;min_new_tokens&quot;: 0,&#10;&#9;&#9;&quot;stop_sequences&quot;: [" label="parameters" mandatory="true" max_length="102" name="u_parameters" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=project_id" label="project_id" mandatory="true" max_length="40" name="u_project_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=project_id" default="javascript:gs.getProperty(&quot;x_146833_genaico_0.watsonxai.projectId&quot;);" dynamic_default_value="e40aff14970986105f703dafe153afbf" label="project_id" mandatory="true" max_length="40" name="u_project_id" type="string" use_dynamic_default="true"/>
     </element>
 </database>
