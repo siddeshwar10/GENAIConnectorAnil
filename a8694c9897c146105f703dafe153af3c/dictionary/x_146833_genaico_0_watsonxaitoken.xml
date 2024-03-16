@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8eb01854970546105f703dafe153afa0" extends="sys_import_set_row" label="WatsonxAIToken" max_length="40" name="x_146833_genaico_0_watsonxaitoken" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=access_token" label="access_token" max_length="1507" name="u_access_token" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=expiration" label="expiration" max_length="40" name="u_expiration" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=expires_in" label="expires_in" max_length="40" name="u_expires_in" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=refresh_token" label="refresh_token" max_length="40" name="u_refresh_token" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=scope" label="scope" max_length="40" name="u_scope" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=token_type" label="token_type" max_length="40" name="u_token_type" type="string"/>
+    </element>
+</database>
