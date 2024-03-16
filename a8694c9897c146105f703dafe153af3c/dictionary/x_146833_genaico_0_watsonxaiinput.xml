@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="82362014978546105f703dafe153afe7" extends="sys_import_set_row" label="WatsonxAIInputMessage" max_length="40" name="x_146833_genaico_0_watsonxaiinput" type="collection">
+        <element label="ResponseText" max_length="4000" name="responsetext" type="string"/>
+        <element choice="1" default="ready" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ready" sequence="0" value="ready"/>
+                <element inactive_on_update="false" label="Loading" sequence="1" value="Loading"/>
+                <element inactive_on_update="false" label="processed" sequence="2" value="processed"/>
+                <element inactive_on_update="false" label="failed" sequence="3" value="failed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=input" default="Provide examples of SAP ERP architecture" label="input" mandatory="true" max_length="2000" name="u_input" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=model_id" default="meta-llama/llama-2-70b-chat" display="true" label="model_id" mandatory="true" max_length="40" name="u_model_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=parameters" default="{&#10;&#9;&#9;&quot;decoding_method&quot;: &quot;greedy&quot;,&#10;&#9;&#9;&quot;max_new_tokens&quot;: 900,&#10;&#9;&#9;&quot;min_new_tokens&quot;: 0,&#10;&#9;&#9;&quot;stop_sequences&quot;: [" label="parameters" mandatory="true" max_length="102" name="u_parameters" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=project_id" label="project_id" mandatory="true" max_length="40" name="u_project_id" type="string"/>
+    </element>
+</database>
